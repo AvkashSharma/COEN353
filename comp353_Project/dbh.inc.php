@@ -1,8 +1,8 @@
 <?
-$dbServername = "ivc353.encs.concordia.ca"; 
-$dbUsername = "ivc353_4"; 
-$dbPassword = "DBases35"; 
-$dbName = "ivc353_4";
+$dbServername = ""; 
+$dbUsername = ""; 
+$dbPassword = ""; 
+$dbName = "";
 
 $conn = mysqli_connect($dbServername,$dbUsername,$dbPassword,$dbName );
 
